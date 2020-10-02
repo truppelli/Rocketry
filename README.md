@@ -25,7 +25,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Phillip Truppelli** - *Initial work* - [GESW Technologies](https://sites.google.com/vt.edu/geswtech/)
+* **Phillip Truppelli** - *Initial work* - [Applied Physics Technology](https://sites.google.com/vt.edu/appliedphysicstech/)
 * **Matthew Risley** - *Initial work* -
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
